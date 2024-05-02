@@ -1,0 +1,36 @@
+{
+  "name": "pocketbase-ssr",
+  "version": "0.0.1",
+  "description": "A small helper package for using PocketBase in server-side rendering (SSR) environments",
+  "main": "./dist/index.js",
+  "module": "./dist/index.mjs",
+  "types": "./dist/index.d.ts",
+  "files": [
+    "dist"
+  ],
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "build": "tsup"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kop7er/pocketbase-ssr.git"
+  },
+  "keywords": [
+    "pocketbase",
+    "ssr"
+  ],
+  "author": "Kopter",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kop7er/pocketbase-ssr/issues"
+  },
+  "homepage": "https://github.com/kop7er/pocketbase-ssr#readme",
+  "devDependencies": {
+    "tsup": "^8.0.2",
+    "typescript": "^5.4.5"
+  },
+  "peerDependencies": {
+    "pocketbase": "^0.21.2"
+  }
+}
