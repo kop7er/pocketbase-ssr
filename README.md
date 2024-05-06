@@ -5,7 +5,7 @@ A small helper package for using PocketBase in server-side rendering (SSR) envir
 - [GitHub](https://github.com/kop7er/pocketbase-ssr/)
 
 > [!WARNING]
-> This package is still in development and can be unstable.
+> This package is still in development and can be unstable, but it should work without any issues.
 
 ## Installation
 
