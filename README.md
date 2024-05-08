@@ -3,6 +3,7 @@
 A small helper package for using PocketBase in server-side rendering (SSR) environments
 
 - [GitHub](https://github.com/kop7er/pocketbase-ssr/)
+- [Examples](https://github.com/kop7er/pocketbase-ssr/tree/master/examples)
 
 > [!WARNING]
 > This package is still in development and can be unstable, but it should work without any issues.
