@@ -1,0 +1,5 @@
+name = "pocketbase-ssr-hono"
+compatibility_date = "2023-12-01"
+
+[vars]
+POCKETBASE_URL = "https://example.com"
